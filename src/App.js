@@ -16,7 +16,7 @@ export default function App() {
         <footer>
           coded by<em> Elham Akbari</em> , open source code on{' '}
           <a
-            href="https://github.com/elhamakbariii/react-dictionary-app"
+            href="https://github.com/elhamiakbari/react-dictionary"
             target="_blank"
             rel="noopener noreferrer"
           >
